@@ -1,3 +1,3 @@
-module github.com/emahiro/aemw
+module github.com/DeNA/aemw
 
 go 1.12
